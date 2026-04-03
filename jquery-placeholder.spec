@@ -4,7 +4,7 @@
 Summary:	jQuery HTML5 Placeholder Plugin
 Name:		jquery-%{plugin}
 Version:	0.1
-Release:	1
+Release:	2
 License:	MIT, BSD, and GPL
 Group:		Applications/WWW
 Source0:	https://github.com/danielstocks/jQuery-Placeholder/tarball/master/%{name}-%{version}.tgz
